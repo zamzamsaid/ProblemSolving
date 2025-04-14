@@ -1,2 +1,2 @@
 # ProblemSolving
-This project provides a solution to for some problems .
+This project provides a solution for some problems .
