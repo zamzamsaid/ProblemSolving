@@ -1,6 +1,6 @@
 <img src="banner_github.jpg" alt="GitHub Banner" width="100%" height="300px" />
 
-# 💫 About Me:
+# Hello World! I'm Zamzam, a passionate Software Engineer exploring Data Science & AI 👩🏻‍💻🚀:
 I'm currently training<br>
 
 
