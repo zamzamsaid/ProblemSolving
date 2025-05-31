@@ -1,4 +1,5 @@
-<img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
+<img src="banner_github.jpg" alt="GitHub Banner" width="50%" />
+
 # 💫 About Me:
 I'm currently training<br>
 
